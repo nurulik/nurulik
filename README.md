@@ -1,0 +1,2 @@
+# nurulik
+Membuat CV sederhana
